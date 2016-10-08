@@ -18,14 +18,15 @@
   },
   "homepage": "https://github.com/onvno/eslint-config#readme",
   "devDependencies": {
+
+  },
+  "dependencies": {
+    "gulp": "^3.9.1",
     "eslint": "^3.7.1",
     "eslint-config-airbnb": "^12.0.0",
     "eslint-plugin-import": "^2.0.0",
     "eslint-plugin-jsx-a11y": "^2.2.2",
     "eslint-plugin-react": "^6.3.0",
     "gulp-eslint": "^3.0.1"
-  },
-  "dependencies": {
-    "gulp": "^3.9.1"
   }
 }
